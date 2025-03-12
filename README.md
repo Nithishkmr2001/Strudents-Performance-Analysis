@@ -26,10 +26,10 @@ Performed in **Power Query** (Power BI):
 
 ### 3. Key Metrics & Insights
 
-- **Total Students:** 
-- **Average Scores:**
-- **Grade Distribution:** 
-- **Demographics & Parent Education Level:**
+- **Total Students** 
+- **Average Scores**
+- **Grade Distribution** 
+- **Demographics & Parent Education Level**
 
 ### 4. Power BI Visualization Techniques
 
